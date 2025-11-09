@@ -1,2 +1,2 @@
-demo-1|demo|saturn|30
+demo-1|demo|saturn|0
 demo-2|prova|prova|0
